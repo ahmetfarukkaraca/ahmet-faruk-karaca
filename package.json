@@ -1,0 +1,29 @@
+{
+  "name": "ahmet-faruk-karaca",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yazdir": "echo Benim adım Ahmet",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ahmet Faruk Karaca",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.7",
+    "nodemailer": "^6.4.6",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmetfarukkaraca/ahmet-faruk-karaca.git"
+  }
+}
